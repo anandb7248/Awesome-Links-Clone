@@ -1,8 +1,6 @@
 # Awesome-Links
 Fullstack App With TypeScript, PostgreSQL, Next.js, Prisma &amp; GraphQL
 
-Following tutorial of https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw#introduction 
-
 The app is built using the following technologies:
 - Next.js as the React framework
 - GraphQL Yoga as the GraphQL server
