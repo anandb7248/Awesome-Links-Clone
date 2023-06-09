@@ -30,5 +30,12 @@ cd Awesome-Links-Clone
 npm install
 npm run dev
 ```
+### Prisma Commands
+```bash
+npx prisma migrate dev --name init 
+npx prisma db seed 
+npx prisma studio
+```
+
 
 This repository follows the guide from https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw#introduction
