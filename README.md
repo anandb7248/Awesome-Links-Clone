@@ -37,5 +37,14 @@ npx prisma db seed
 npx prisma studio
 ```
 
+### Localhost
+```
+Root
+http://localhost:3000
+
+Graphql
+http://localhost:3000/api/graphql
+```
+
 
 This repository follows the guide from https://www.prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw#introduction
